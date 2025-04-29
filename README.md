@@ -70,3 +70,13 @@ ab-testing-cookie-cats/
 - Install packages:
 ```r
 install.packages(c("tidyverse", "dplyr", "ggplot2", "knitr"))
+```
+
+## Members
+| **Name**| **Major**| **University**|
+|-|-|-|
+| Huynh Ha Anh Thu      | Data Science  | University of Science (VNUHCM) |
+| Tran Gia Huy          | Data Science  | University of Science (VNUHCM) |
+| Mai Thi Kim Ngan      | Data Science  | University of Science (VNUHCM) |
+| Luong Thanh Nam       | Data Science  | University of Science (VNUHCM) |
+| Le Thanh Thuy         | Data Science  | University of Science (VNUHCM) |
